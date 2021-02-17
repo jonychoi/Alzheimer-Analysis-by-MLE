@@ -1,7 +1,7 @@
 # Medical A.I
 ## Medical A.I Projects of Analyzing and classifying for Brain Diseases, and Lung Disease.
 
-### Analysis with univariate and bivariate MLE between the diagnosis group of "Alzheimer's Disease", "Mild Cognitive Impariment", and "Cognitive Normal".
+### Analysis with univariate and bivariate MLE between the diagnosis group of 'Alzheimer's Disease', 'Mild Cognitive Impariment', and 'Cognitive Normal'.
 - Research for bivariate and univariate MLE between Brain Diseases.ipynb
 
 ### Research for Classification of Brain disease between 'Alzheimer's Disease', 'Mild Coginitive Impariment', 'Cognitive Normal' with various methods of Machine Learning.
