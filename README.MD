@@ -5,7 +5,7 @@
 - Research for bivariate and univariate MLE between Brain Diseases.ipynb
 
 ### - Research about classification of Brain diseases between 'Alzheimer's Disease', 'Mild Coginitive Impariment', 'Cognitive Normal' with various Machine Learning models.
-- Research for Machine Learning Methods for Classification of Brain Diseases.ipynb
+- Research about Classification of Brain Diseases with various machine learning models.ipynb
 
 ### - Research for Classifcation of lung cancer with the dataset of Lung_CT by tensorflow2.0.
 - Classifying cancer with Lung_CT.ipynb
